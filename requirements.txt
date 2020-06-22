@@ -1,0 +1,11 @@
+# Python package requirements
+numpy
+torch
+sklearn
+matplotlib
+tqdm
+
+# Testing requirements
+pytest
+pytest-cov
+pylint
